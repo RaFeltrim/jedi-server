@@ -1,0 +1,17 @@
+{
+  "name": "jedi-server",
+  "version": "1.0.0",
+  "description": "Servidor de dados do Conselho Jedi",
+  "main": "codigo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Feltrim",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint": "^9.9.0",
+    "globals": "^15.9.0",
+    "prettier": "3.3.3"
+  }
+}
